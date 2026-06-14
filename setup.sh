@@ -9,7 +9,7 @@ set -euo pipefail
 
 GATEWAY_VERSION="v1.1.13"
 AUTH_VERSION="v1.0.1"
-RELEASES_BASE="https://raw.githubusercontent.com/00peter0/vcs-releases/main"
+RELEASES_BASE="https://raw.githubusercontent.com/virtucybersecurity/vcs-releases/main"
 
 # --- Colors ---
 RED='\033[0;31m'
