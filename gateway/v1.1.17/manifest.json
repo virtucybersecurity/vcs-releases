@@ -1,0 +1,11 @@
+{
+  "product": "Cloud Code Studio gateway",
+  "version": "v1.1.17",
+  "sourceRepository": "00peter0/vcs-cloud-code-gateway",
+  "sourceCommit": "073cc7f",
+  "artifact": "gateway-go",
+  "sha256": "79d7fc0013a640fbe9e74c54cb77b61ea6c7995ec456bcf0c2b09716600aa726",
+  "target": "linux/amd64",
+  "goVersion": "go1.25.0",
+  "builtAt": "2026-07-15T19:33:00Z"
+}
