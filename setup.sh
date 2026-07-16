@@ -4,10 +4,10 @@ set -euo pipefail
 # ============================================================================
 # VCS Cloud Code Studio — Fresh Server Bootstrap
 # Version: 1.0.0
-# Gateway: v1.1.20 | Auth: v1.0.1
+# Gateway: v1.1.21 | Auth: v1.0.1
 # ============================================================================
 
-GATEWAY_VERSION="v1.1.20"
+GATEWAY_VERSION="v1.1.21"
 AUTH_VERSION="v1.0.1"
 RELEASES_BASE="https://raw.githubusercontent.com/virtucybersecurity/vcs-releases/main"
 
