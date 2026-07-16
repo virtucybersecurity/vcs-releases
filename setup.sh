@@ -7,7 +7,7 @@ set -euo pipefail
 # Gateway: v1.1.27 | Auth: v1.0.1
 # ============================================================================
 
-GATEWAY_VERSION="v1.1.27"
+GATEWAY_VERSION="v1.1.29"
 AUTH_VERSION="v1.0.1"
 RELEASES_BASE="https://raw.githubusercontent.com/virtucybersecurity/vcs-releases/main"
 
