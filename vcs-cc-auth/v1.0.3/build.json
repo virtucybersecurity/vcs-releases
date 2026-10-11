@@ -1,0 +1,8 @@
+{
+  "repository": "vcs-cc-auth",
+  "commit": "3a800e3da0e92f12033aaf27836243a94aefd497",
+  "version": "v1.0.3",
+  "sha256": "bc63be8331fb8a1bad58882ff273cbbd1555a0afe27711e97b2a961e20631fff",
+  "go": "1.26.9",
+  "clean": true
+}
