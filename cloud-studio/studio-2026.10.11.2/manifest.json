@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "product": "cloud-studio",
+  "release": "studio-2026.10.11.2",
+  "artifacts": [
+    {
+      "path": "install.sh",
+      "size": 24611,
+      "sha256": "cb78ccbbf27467cef66aa93a31ecc1c587643facf9d01ec208300eef775586a6"
+    },
+    {
+      "path": "index.html",
+      "size": 185360,
+      "sha256": "1fe4a215c42bb331b90379242b404f4a2c046ca1fca139d001f4e405c92463f6"
+    },
+    {
+      "path": "xterm.js",
+      "size": 488663,
+      "sha256": "14903579ff54664cd72f8e8699e6961a6272c21863ec1c3b118cdc8af5d4a972"
+    },
+    {
+      "path": "xterm.css",
+      "size": 7112,
+      "sha256": "854a7c0fb70e8b1a083c16797ab827299fb18744f5ad34f227b48337e33293c6"
+    },
+    {
+      "path": "xterm-addon-fit.js",
+      "size": 1521,
+      "sha256": "ba3ea256ce0620a0992a197d6c9baea64823fc93d8da07a9e366ca9943c18527"
+    },
+    {
+      "path": "xterm-addon-web-links.js",
+      "size": 3100,
+      "sha256": "b74864125ef3889753b94e61eb4dabb99b2a27f920f0c9a7bd53cbe6d10f032a"
+    }
+  ],
+  "components": {
+    "gateway": {
+      "repository": "vcs-cloud-code-go",
+      "commit": "56d488c6955e0897d83c4800348bc1316d2f9215",
+      "version": "v1.1.43",
+      "sha256": "af6a680238419f037138d4f9f8034687ba1fd9730e1a00ca73ff76c8bb6d2a98",
+      "go": "1.26.9",
+      "clean": true
+    },
+    "auth": {
+      "repository": "vcs-cc-auth",
+      "commit": "3a800e3da0e92f12033aaf27836243a94aefd497",
+      "version": "v1.0.3",
+      "sha256": "bc63be8331fb8a1bad58882ff273cbbd1555a0afe27711e97b2a961e20631fff",
+      "go": "1.26.9",
+      "clean": true
+    },
+    "ui": {
+      "version": "ui-2026.10.11.1",
+      "sha256": "1fe4a215c42bb331b90379242b404f4a2c046ca1fca139d001f4e405c92463f6",
+      "matchesEmbedded": true
+    }
+  }
+}

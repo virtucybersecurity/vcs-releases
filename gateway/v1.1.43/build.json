@@ -1,0 +1,8 @@
+{
+  "repository": "vcs-cloud-code-go",
+  "commit": "56d488c6955e0897d83c4800348bc1316d2f9215",
+  "version": "v1.1.43",
+  "sha256": "af6a680238419f037138d4f9f8034687ba1fd9730e1a00ca73ff76c8bb6d2a98",
+  "go": "1.26.9",
+  "clean": true
+}
